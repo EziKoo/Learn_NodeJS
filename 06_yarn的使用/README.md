@@ -9,19 +9,19 @@
   超级安全：在执行代码之前，Yarn 会通过算法校验每个安装包的完整性。
 
   #### 开始新项目：
-    yarn init
+  yarn init
   
   #### 添加依赖包：
-    yarn add [package]
-    yarn add [package]@[version]
-    yarn add [package] --dev
+  yarn add [package]
+  yarn add [package]@[version]
+  yarn add [package] --dev
   
   #### 升级依赖包
-    yarn upgrade [package]@[version]
+  yarn upgrade [package]@[version]
 
   #### 移除依赖包
-    yarn remove [package]
+  yarn remove [package]
 
   #### 安装项目的全部依赖
-    yarn insatll
+  yarn insatll
 ```
